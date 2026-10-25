@@ -2,8 +2,6 @@
 
 ## 1. Project Overview
 **Project title:** Pac-Man Reimagined: An Interactive 2D Arcade Game in Java  
-**Team:** CODEMUNCHERS  
-**Team lead:** Sahil Chand  
 **Technology:** Java 17+, Swing, AWT, Maven (optional)
 
 This project develops a desktop arcade game that demonstrates object-oriented programming, event handling, timer-driven updates, collision detection, and 2D rendering without relying on a third-party game engine.
